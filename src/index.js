@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import $ from 'jquery';
-import Popper from 'popper.js';
+// import $ from 'jquery';
+// import Popper from 'popper.js';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -10,7 +10,7 @@ import reportWebVitals from './reportWebVitals';
 import Navbar from './navbar';
 import Footer from './Footer';
 import Mainpage from './mainpage'
-import Carousel from 'bootstrap/js/src/carousel';
+// import Carousel from 'bootstrap/js/src/carousel';
 
 ReactDOM.render(
   <React.StrictMode>

@@ -1,5 +1,5 @@
 
-import Carousel from 'bootstrap/js/src/carousel'
+// import Carousel from 'bootstrap/js/src/carousel'
 import image1 from "C:/Users/jyoth/Downloads/hp-desktop-computer-500x500.jpg"
 import image2 from "C:/Users/jyoth/Downloads/hp-probook.jpg"
 import image3 from "C:/Users/jyoth/Downloads/lap ser.jpg"
