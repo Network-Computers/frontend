@@ -1,10 +1,10 @@
 
 // import Carousel from 'bootstrap/js/src/carousel'
-import image1 from "C:/Users/jyoth/Downloads/hp-desktop-computer-500x500.jpg"
-import image2 from "C:/Users/jyoth/Downloads/hp-probook.jpg"
-import image3 from "C:/Users/jyoth/Downloads/lap ser.jpg"
-import image4 from "C:/Users/jyoth/Downloads/lap up.jpg"
-import image5 from "C:/Users/jyoth/Downloads/dell lapi.webp"
+import image1 from "./assets/hp-desktop-computer-500x500.jpg"
+import image2 from "./assets/hp-probook.jpg"
+import image3 from "./assets/lap ser.jpg"
+import image4 from "./assets/lap up.jpg"
+import image5 from "./assets/dell lapi.webp"
 
 const Mainpage  = () => {
    

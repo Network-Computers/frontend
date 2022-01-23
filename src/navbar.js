@@ -1,4 +1,4 @@
-import logo from "C:/Users/jyoth/Downloads/LOGO_NEW.png";
+import logo from "./assets/LOGO_NEW.png";
 const Navbar = () => {
     return (  
         <div>
