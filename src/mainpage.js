@@ -13,19 +13,22 @@ const Mainpage  = () => {
         <div class="carousel-inner">
       
           <div class="carousel-item active">
-            <img src={image1} class="d-block w-50" alt="first image" height='600'  ></img>
+            <img src={image1} class="d-block w-50" alt="first image"   ></img>
+          </div>
+          <div class="carousel-item ">
+            <img src={image2} class="d-block w-50" alt="second image" ></img>
+          </div>
+         
+          <div class="carousel-item">
+          <div class="image3">
+            <img src={image3} class="d-block w-50" alt="third image"></img>
+          </div>
           </div>
           <div class="carousel-item">
-            <img src={image2} class="d-block w-50" alt="second image" height='550'></img>
+            <img src={image4} class="d-block w-75" alt="fourth image" ></img>
           </div>
           <div class="carousel-item">
-            <img src={image3} class="d-block w-50" alt="third image" height='550'></img>
-          </div>
-          <div class="carousel-item">
-            <img src={image4} class="d-block w-75" alt="fourth image" height='550'></img>
-          </div>
-          <div class="carousel-item">
-            <img src={image5} class="d-block w-50" alt="fifth image" height='550'></img>
+            <img src={image5} class="d-block w-50" alt="fifth image" ></img>
           </div>
          
         </div>
